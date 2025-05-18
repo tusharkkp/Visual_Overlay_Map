@@ -1,3 +1,8 @@
+"homepage": "https://tusharkkp.github.io/Visual_Overlay_Map/",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
 {
   "name": "vite-react-typescript-starter",
   "private": true,
